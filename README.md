@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushpatel12l679/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ayushpatel12l679/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayushpatel12l679/leetcode/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/ayushpatel12l679/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/ayushpatel12l679/leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/ayushpatel12l679/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushpatel12l679/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ayushpatel12l679/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
